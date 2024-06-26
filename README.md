@@ -31,7 +31,7 @@ To get a local copy up and running, follow these simple steps.
 
   
 ## Hence, if you want direct code then you can take the javascript file and can use it in your project.
-
+ ### This project is mainly uploaded to provide you the javascript file for authentication as there is a lot's of struggle for using firebase first time.
 #Contact
 Email-id :- tiwariakash981@gmail.com
 
